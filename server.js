@@ -8,8 +8,4 @@ function add(a,b){
 
 const res=()=>{
     console.log("The Aayushi");
-    console.log(add(a,b));
 }
-
-console.log("hello,how are u all...mai v thik hun");
-res();
