@@ -12,3 +12,7 @@ console.log(greet(name));
 function newFeatureAdd(){
     console.log("new feature is added");
 }
+
+function newFeatureAdd(){
+    console.log("new feature is added again");
+}
